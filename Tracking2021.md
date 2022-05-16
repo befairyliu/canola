@@ -3,10 +3,10 @@ Tracking2021
 个人信息
 姓    名: NULL
 生    日：NULL
-性    别：男
+性    别：NULL
 现居住地：杭州
 联系方式：NULL
-邮    箱：befairyliu@163.com
+邮    箱：NULL
 
 教育背景：
 2009.09 - 2011.06            浙江大学             软件工程              硕士
